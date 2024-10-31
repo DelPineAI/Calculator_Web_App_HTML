@@ -34,4 +34,3 @@ function calculate(){
         }
     }
 }
-/* GitHub test */

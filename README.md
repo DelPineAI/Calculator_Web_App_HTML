@@ -25,8 +25,8 @@ A simple, interactive calculator web application built using HTML, CSS, and Java
 
 Here are some fun hidden features you can try out in the calculator:
 
-- **Entering a calculation that usually results in an error**: Displays "prolly like 2" on the calculator screen.
-- **Entering a calculation that usually results in a domain error**: Displays "Infinity" on the calculator screen.
+- **Entering a calculation that usually results in an `error`**: Displays "prolly like 2" on the calculator screen.
+- **Entering a calculation that usually results in a `domain error`**: Displays "Infinity" on the calculator screen.
 - **Entering `8008` and pressing `=`**: Displays "Josh Peck" on the calculator screen.
 - **Entering `80085` and pressing `=`**: Displays "( * ) ( * )" on the calculator screen.
 - **Entering `8008135` and pressing `=`**: Displays "( * ) ( * )" on the calculator screen.
@@ -43,4 +43,4 @@ Here are some fun hidden features you can try out in the calculator:
 
 - [LinkedIn](https://www.linkedin.com/in/edward-del-pino)
 - [GitHub](https://github.com/DelPineAI)
-- [Instagram](https://www.instagram.com/edwarddelpino/)
+- [Instagram](https://www.instagram.com/edwarddelpiiino/)

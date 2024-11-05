@@ -41,6 +41,8 @@ Here are some fun hidden features you can try out in the calculator:
 
 **Edward Del Pino**
 
+*October 2024*
+
 - [LinkedIn](https://www.linkedin.com/in/edward-del-pino)
 - [GitHub](https://github.com/DelPineAI)
 - [Instagram](https://www.instagram.com/edwarddelpiiino/)
